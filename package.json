@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "https://github.com/juanjoseparedes/next-vecel.git",
   "author": "Juan Paredes <juanjoseparedes@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  
+    "scripts": {
+      "dev": "node index.js"
+    }
+
 }
