@@ -1,14 +1,27 @@
 {
-  "name": "inital-demo",
+  "name": "initial-demo",
+  "private": true,
   "version": "1.0.0",
   "description": "App-test-nextjs",
   "main": "index.js",
   "repository": "https://github.com/juanjoseparedes/next-vecel.git",
   "author": "Juan Paredes <juanjoseparedes@hotmail.com>",
   "license": "MIT",
-  
-    "scripts": {
-      "dev": "node index.js"
-    }
-
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "next": "^13.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.26",
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.0.8"
+  }
 }
