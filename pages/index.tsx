@@ -11,7 +11,7 @@ export default function HomePage() {
         </h1>
 
         <p className={"description"}>
-          get started by editing {' '}jj 
+          get started by editing {' '}
           <code className={"code"}></code>
         </p>
     </MainLayout>
