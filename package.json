@@ -7,7 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+<<<<<<< HEAD
     "test": "jest --watch"
+=======
+    "test": "jest"
+>>>>>>> e6f96085f7aff9baf899daa243d6b521dddb6fc4
   },
   "dependencies": {
     "next": "13.0.6",
