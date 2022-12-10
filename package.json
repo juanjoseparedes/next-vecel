@@ -1,26 +1,9 @@
 {
-  "name": "initial-demo",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-<<<<<<< HEAD
-    "test": "jest --watch"
-=======
-    "test": "jest"
->>>>>>> e6f96085f7aff9baf899daa243d6b521dddb6fc4
-  },
-  "dependencies": {
-    "next": "13.0.6",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
-  },
-  "devDependencies": {
-    "@types/node": "^18.11.12",
-    "@types/react": "^18.0.26",
-    "typescript": "^4.9.4"
-  }
+  "name": "inital-demo",
+  "version": "1.0.0",
+  "description": "App-test-nextjs",
+  "main": "index.js",
+  "repository": "https://github.com/juanjoseparedes/next-vecel.git",
+  "author": "Juan Paredes <juanjoseparedes@hotmail.com>",
+  "license": "MIT"
 }
